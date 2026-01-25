@@ -8,7 +8,7 @@ while True:
     user = input("Enter your guess (1-6): ")
 
     if user.lower() == 'q':
-        print("Thanks for playing! 👋")
+        print("Thanks for playing! ")
         break
 
     if not user.isdigit():
@@ -24,10 +24,10 @@ while True:
     print(f"Computer rolled: {dice}")
 
     if dice == user:
-        print("🎉 You won!!\n")
+        print(" You won!!\n ")
         break
     else:
-        print("❌ Computer won! Try again.\n")
+        print("Computer won! Try again.\n")
 
 
 
