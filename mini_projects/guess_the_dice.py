@@ -1,4 +1,4 @@
-import random 
+import random  
 
 print(" Dice Guessing Game")
 print("Guess a number from 1 to 6. Type 'q' to quit.\n")
