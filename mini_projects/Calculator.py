@@ -5,7 +5,7 @@ print("_" * 30)
 
 print("press  +  to Add")
 print("press  -  to Subtract")
-print("press  *  to Multiply")
+print("press  *  to Multiply") 
 print("press  /  to Divide")
 print("press  !  to Factorial")
 print("_" * 30)
