@@ -7,7 +7,7 @@ sct = random.randint(1, 100)
 
 print("Welcome to Lottery Game!")
 time.sleep(1)
-
+ 
 for i in range(5):
     user = int(input("Please enter a number: "))
     print("Checking your number...")
