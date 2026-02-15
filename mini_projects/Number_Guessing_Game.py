@@ -1,5 +1,5 @@
 """  
-Number Guessing Game
+Number Guessing Game 
 
 Description:
 A simple command-line game where the user tries to guess
