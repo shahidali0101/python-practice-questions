@@ -29,7 +29,7 @@ elif choose in ["+", "-", "*", "/"]:
         print("Result:", num1 + num2)
 
     elif choose == "-":
-        print("Result:", num1 - num2)
+        print("Result:", num1 - num2) 
 
     elif choose == "*":
         print("Result:", num1 * num2)
