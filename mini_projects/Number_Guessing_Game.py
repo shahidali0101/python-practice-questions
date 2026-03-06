@@ -11,7 +11,6 @@ Features:
 - Attempt counter
 
 """
-
 import random
 
 # Generate random number
