@@ -1,8 +1,7 @@
-   
 
 print("   Calculator   ")
-print("_" * 30)
-
+print("_" * 30) 
+ 
 print("press  +  to Add") 
 print("press  -  to Subtract") 
 print("press  *  to Multiply") 
@@ -29,7 +28,7 @@ elif choose in ["+", "-", "*", "/"]:
         print("Result:", num1 + num2)
 
     elif choose == "-":
-        print("Result:", num1 - num2)
+        print("Result:", num1 - num2) 
 
     elif choose == "*":
         print("Result:", num1 * num2)
