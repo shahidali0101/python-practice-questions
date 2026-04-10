@@ -1,6 +1,6 @@
 
 print("   Calculator   ")
-print("_" * 30) 
+print("_" * 30)  
  
 print("press  +  to Add") 
 print("press  -  to Subtract") 
